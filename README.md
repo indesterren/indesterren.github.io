@@ -1,2 +1,2 @@
-# indesterren.github.io
-Indesterren.nl website
+# indesterren.nl
+In de Sterren website
