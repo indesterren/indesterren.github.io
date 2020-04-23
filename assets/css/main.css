@@ -392,12 +392,15 @@ label {
   margin: 0 auto;
 }
 
+.logos {
+  margin: 0 auto;
+}
+
 .logo-star {
   width: 15%;
   height: auto;
-  margin: 0 auto;
   float: left;
-  margin-right: 1.5rem;
+  margin: 0 1.5rem;
   vertical-align: middle;
 }
 
