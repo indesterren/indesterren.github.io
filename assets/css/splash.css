@@ -20,6 +20,7 @@ h6 {
   .element {
 	margin: 0 auto;
 	width: 150px;
+	  background-color: #fff;
 	height: 150px;
 	background: red;
  
