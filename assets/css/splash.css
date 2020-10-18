@@ -65,6 +65,16 @@ body {
 .footer a {
     text-decoration:none;
 }
+.blockbutton {
+width: 85%;
+border: none;
+background-color: #89cff0;
+padding: 14px 28px;
+font-size: 16px;
+cursor: pointer;
+text-align: center;
+font-family: “Playfair Display”;
+}
 
 .circulo {
     background: rgb(221, 221, 221);
