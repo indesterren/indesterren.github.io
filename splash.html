@@ -23,3 +23,31 @@
   												<li><a href="http://indesterren.nl" class="button primary fit">Website, about</a></li>
   												<li><a href="https://open.spotify.com/show/2Lo5eeknbSGLieWHUXy3Yj?si=xCaR6S6rTjCXR4LoBkTfTQ" class="button primary fit">Podcast</a></li>
 											</ul>
+<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script>
+
+					// Selecting the iframe element
+				
+					var iframe = document.getElementById("widget");
+				
+					
+				
+					// Adjusting the iframe height onload event
+				
+					iframe.onload = function(){
+				
+						iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+				
+					}
+				
+					</script>
+
+	</body>
+</html>
